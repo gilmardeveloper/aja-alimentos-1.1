@@ -217,6 +217,15 @@ header a:hover, footer a:hover{
 
 }
 
+.btn-circle {
+  background-color: #009cde;
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  margin-left: 70%;
+  z-index: 4;
+}
+
 .mtop-rev-2{
     margin-top: -10%;
 }
@@ -410,6 +419,10 @@ header a:hover, footer a:hover{
 
     margin-left: 15%;
 
+    }
+
+    .wd-100{
+        width: 100%;
     }
 }
 @media screen and (min-width : 1024px) {

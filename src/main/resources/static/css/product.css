@@ -1,0 +1,283 @@
+.exibe-produto img {
+    max-width: 400px;
+    margin: 70px auto;
+    display: flex;
+}
+h3.title-exibe-produto.color-1 {
+    font-size: 1.8em;
+}
+.desc-produto p {
+    font-size: 14px;
+    color: #4e4e4e;
+    font-family: 'PTsans', sans-serif;
+}
+.desc-produto {
+    text-align: justify;
+    width: 80%;
+}
+
+.timeline-active .owl-controls {
+    top: 40%;
+    font-size: 4em;
+    color: black;
+}
+.timeline-active .owl-prev {
+    left: 0%;
+}
+.timeline-active .owl-next {
+    right: 0%;
+}
+
+@media screen and (min-width : 320px) and ( max-width : 375.98px) {
+
+    .btn-produto {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    -webkit-box-shadow: 1px 2px 1px #d66e07;
+    -moz-box-shadow: 1px 2px 1px #d66e07;
+    box-shadow: 1px 2px 1px #d66e07;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 10px;
+    background: #ff8302;
+    padding: 15px 32px 15px 32px;
+    text-decoration: none;
+    margin-left: 3%;
+}
+.btn-produto:hover {
+    background: #ff952b;
+    text-decoration: none;
+}
+.btn-produto i {
+    margin: 0px 15px;
+    color: #9c5000;
+    font-size: 1.4em;
+    line-height: 2.4;
+}
+a.btn-produto:hover {
+    color: #844c00;
+}
+    
+}
+
+@media screen and (min-width : 376px) and ( max-width : 393.98px) {
+
+    .btn-produto {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    -webkit-box-shadow: 1px 2px 1px #d66e07;
+    -moz-box-shadow: 1px 2px 1px #d66e07;
+    box-shadow: 1px 2px 1px #d66e07;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 15px;
+    background: #ff8302;
+    padding: 15px 32px 15px 32px;
+    text-decoration: none;
+}
+.btn-produto:hover {
+    background: #ff952b;
+    text-decoration: none;
+}
+.btn-produto i {
+    margin: 0px 15px;
+    color: #9c5000;
+    font-size: 1.4em;
+    line-height: 2.4;
+}
+a.btn-produto:hover {
+    color: #844c00;
+}
+    
+}
+
+@media screen and (min-width : 394px) and ( max-width : 471px) {
+      .btn-produto {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    -webkit-box-shadow: 1px 2px 1px #d66e07;
+    -moz-box-shadow: 1px 2px 1px #d66e07;
+    box-shadow: 1px 2px 1px #d66e07;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 17px;
+    background: #ff8302;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-left: 8%;
+}
+.btn-produto:hover {
+    background: #ff952b;
+    text-decoration: none;
+}
+.btn-produto i {
+    margin: 0px 15px;
+    color: #9c5000;
+    font-size: 1.4em;
+    line-height: 2.4;
+}
+a.btn-produto:hover {
+    color: #844c00;
+}
+  
+}
+
+@media screen and (min-width : 472px) and ( max-width : 559.98px) {
+      .btn-produto {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    -webkit-box-shadow: 1px 2px 1px #d66e07;
+    -moz-box-shadow: 1px 2px 1px #d66e07;
+    box-shadow: 1px 2px 1px #d66e07;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #ff8302;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-left: 12%;
+}
+.btn-produto:hover {
+    background: #ff952b;
+    text-decoration: none;
+}
+.btn-produto i {
+    margin: 0px 15px;
+    color: #9c5000;
+    font-size: 1.4em;
+    line-height: 2.4;
+}
+a.btn-produto:hover {
+    color: #844c00;
+}
+  
+}
+
+
+@media screen and (min-width : 560px) and ( max-width : 768px) {
+      .btn-produto {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    -webkit-box-shadow: 1px 2px 1px #d66e07;
+    -moz-box-shadow: 1px 2px 1px #d66e07;
+    box-shadow: 1px 2px 1px #d66e07;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #ff8302;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-left: 15%;
+}
+.btn-produto:hover {
+    background: #ff952b;
+    text-decoration: none;
+}
+.btn-produto i {
+    margin: 0px 15px;
+    color: #9c5000;
+    font-size: 1.4em;
+    line-height: 2.4;
+}
+a.btn-produto:hover {
+    color: #844c00;
+}
+  
+}
+@media screen and (min-width : 769px) and ( max-width : 991.98px) {
+      .btn-produto {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    -webkit-box-shadow: 1px 2px 1px #d66e07;
+    -moz-box-shadow: 1px 2px 1px #d66e07;
+    box-shadow: 1px 2px 1px #d66e07;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #ff8302;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-left: 25%;
+}
+.btn-produto:hover {
+    background: #ff952b;
+    text-decoration: none;
+}
+.btn-produto i {
+    margin: 0px 15px;
+    color: #9c5000;
+    font-size: 1.4em;
+    line-height: 2.4;
+}
+a.btn-produto:hover {
+    color: #844c00;
+}
+   
+}
+@media screen and (min-width : 992px) and ( max-width : 1023px) {
+      .btn-produto {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    -webkit-box-shadow: 1px 2px 1px #d66e07;
+    -moz-box-shadow: 1px 2px 1px #d66e07;
+    box-shadow: 1px 2px 1px #d66e07;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #ff8302;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.btn-produto:hover {
+    background: #ff952b;
+    text-decoration: none;
+}
+.btn-produto i {
+    margin: 0px 15px;
+    color: #9c5000;
+    font-size: 1.4em;
+    line-height: 2.4;
+}
+a.btn-produto:hover {
+    color: #844c00;
+}
+    
+}
+@media screen and (min-width : 1024px) {
+
+    .btn-produto {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    -webkit-box-shadow: 1px 2px 1px #d66e07;
+    -moz-box-shadow: 1px 2px 1px #d66e07;
+    box-shadow: 1px 2px 1px #d66e07;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #ff8302;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.btn-produto:hover {
+    background: #ff952b;
+    text-decoration: none;
+}
+.btn-produto i {
+    margin: 0px 15px;
+    color: #9c5000;
+    font-size: 1.4em;
+    line-height: 2.4;
+}
+a.btn-produto:hover {
+    color: #844c00;
+}
+
+}

@@ -2,8 +2,6 @@ var old;
 
 $(document).ready(function () {
 
-
-
     verifyDevice();
     old = $("#li-first");
 
@@ -143,4 +141,6 @@ function verifyDevice() {
         $('div.footer-menu-item').removeClass('border-right');
     }
 }   
-} 
+}
+
+
